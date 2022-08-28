@@ -1,0 +1,17 @@
+{
+  "name": "ejercicio03",
+  "version": "1.0.0",
+  "description": "Ejercicio 03 White,for y break",
+  "main": "factorial-for.js",
+  "scripts": {
+    "start": "factorial-for.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "while",
+    "for",
+    "break"
+  ],
+  "author": "DiegoAVG",
+  "license": "ISC"
+}
